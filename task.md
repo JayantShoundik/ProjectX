@@ -1,0 +1,15 @@
+- [x] Set up FastAPI backend (Member C Role)
+  - [x] Initialize Python project
+  - [x] Create `main.py`
+  - [x] Create mock ML endpoints (`/predict`, `/explain`)
+  - [x] Set up basic database schema (SQLite for local testing)
+- [x] Set up React Frontend (Member D Role)
+  - [x] Initialize Vite project
+  - [x] Create basic Auth screens
+  - [x] Create prediction form and explanation visualization
+- [x] Create Documentation
+  - [x] Compile `reference_papers.md`
+  - [x] Prepare 1-page `presentation_notes_rekha.md`
+- [x] Final Verification
+  - [x] Test Backend API
+  - [x] Test Frontend connectivity
